@@ -289,4 +289,4 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 add_theme_support('woocommerce');
 if(class_exists('TGM_Plugin_Activation')) {
 	require_once KIDBA_THEME_INC . 'add_plugin.php';
-}
+} 
